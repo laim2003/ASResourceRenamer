@@ -1,6 +1,5 @@
 # ASResourceRenamer
 Short and nice cmd tool to help annoyed Android Developers who would have to rename a incredible list of android resource dirs, e.g. layout/ or font/.
-*Tool for windows.*
 
 ## Dealing with annoying restrictions in the resources system?
  - Having a long list of filenames which all must be renamed?
